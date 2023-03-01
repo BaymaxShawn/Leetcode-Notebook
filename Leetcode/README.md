@@ -1,2 +1,2 @@
-# 🍔 1 - Two Sum
+# Leetcode 1 - 500
 
