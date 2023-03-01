@@ -1,4 +1,5 @@
 # Table of contents
 
-* [🍞 51 - N Queens](README.md)
-* [🍔 1 - Two Sum](1-two-sum.md)
+* [🍔 1 - Two Sum](README.md)
+  * [Page 1](1-two-sum/page-1.md)
+* [🍞 51 - N Queens](<README (1).md>)
