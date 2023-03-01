@@ -1,1 +1,1 @@
-This is Shawn's Notebook
+This is Shawn's Leetcode Notebook
