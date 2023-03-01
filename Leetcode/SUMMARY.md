@@ -1,4 +1,4 @@
-# Leetcode 1 - 500
+# Leetcode 
 
 
 * [🍔 1 - Two Sum](<README (1).md>)
