@@ -1,1 +1,6 @@
-Shawn's Leetcode NoteBook
+---
+description: python
+---
+
+# Leetcode 51 - N Queens
+
