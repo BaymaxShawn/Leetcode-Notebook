@@ -1,3 +1,3 @@
-# 啥？
+# 干啥呢？
 
-this is for readme
+快刷题！
