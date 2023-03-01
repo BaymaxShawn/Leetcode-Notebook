@@ -1,2 +1,2 @@
-# Leetcode 1 - 500
 
+This is for Leetcode
