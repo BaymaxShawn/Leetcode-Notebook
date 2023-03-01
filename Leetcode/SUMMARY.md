@@ -1,3 +1,4 @@
 # Table of contents
 
-* [啥？](README.md)
+* [🍞 51 - N Queens](README.md)
+* [Page 1](page-1.md)
