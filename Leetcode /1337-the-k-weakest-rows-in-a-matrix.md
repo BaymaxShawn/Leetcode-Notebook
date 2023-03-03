@@ -51,7 +51,7 @@ The rows ordered from weakest to strongest are [0,2,3,1].
 
 ## Solution:
 
-#### Python
+#### Python method-1
 
 ```python
 class Solution(object):
@@ -93,4 +93,59 @@ class Solution(object):
 ```
  res = [x for x,y in sortTemp[:k]] 是为了把list里的前k个数打印出来
 ```
+
+####
+
+#### Python method-2
+
+```python
+class Solution:
+    def kWeakestRows(self, mat: List[List[int]], k: int) -> List[int]:
+
+        return sorted(range(len(mat)), key=lambda x: sum(mat[x]))[:k]
+```
+
+这行代码是一个lambda函数，用来对矩阵`mat`的每一行进行求和，并将其作为排序的依据。具体来说，`range(len(mat))`表示对矩阵的每一行都进行处理；`key=lambda x: sum(mat[x])`表示对于每一行`x`，将其元素进行求和，并以此作为排序的依据；最后`sorted`函数将处理结果进行排序，返回前`k`行的索引值。
+
+举个例子，如果矩阵`mat`为：
+
+```csharp
+csharpCopy code[
+ [1,1,0,0,0],
+ [1,1,1,1,0],
+ [1,0,0,0,0],
+ [1,1,0,0,0],
+ [1,1,1,1,1]
+]
+```
+
+`range(len(mat))`为`[0,1,2,3,4]`，分别表示矩阵的五行。
+
+对于第一行，`sum(mat[0])`为2，对于第二行，`sum(mat[1])`为4，以此类推。
+
+`sorted`函数根据这些求和结果将行的索引进行排序，返回前`k`行的索引值，比如当`k=3`时，返回`[0, 2, 3]`，表示前三行的索引为0、2、3。
+
+在这里，索引指的是行号，即二维矩阵中每一行的标号。`sum(mat[x])`是求矩阵中第x行的所有元素之和。`sorted(range(len(mat)), key=lambda x: sum(mat[x]))`这一部分代码返回的是一个列表，列表中的每个元素是原始矩阵中每一行的索引，按行元素之和从小到大排列。
+
+通过`[:k]`取前k个索引，就可以得到按行元素之和从小到大排序后的前k行。
+
+由于题目要求返回的是行索引而不是行元素之和，因此最终返回的是`sorted(range(len(mat)), key=lambda x: sum(mat[x]))[:k]`，即前k个行索引组成的列表。
+
+
+
+`range(len(mat))` 是一个 Python 内置的函数，返回一个包含指定长度范围内所有整数的可迭代对象，可以被用来在循环中遍历或者生成列表等操作。
+
+在 `sorted` 函数中，`range(len(mat))` 表示要排序的元素的索引，这里是通过列表推导式生成的。如果需要，也可以将其单独拎出来使用，例如：
+
+```scss
+scssCopy codelst = [3, 1, 4, 2, 5]
+idx = range(len(lst))
+sorted_idx = sorted(idx, key=lambda x: lst[x])
+```
+
+这段代码中，`idx` 是一个 `range` 对象，表示了 `lst` 列表的索引范围。`sorted_idx` 则是按照 `lst` 列表元素大小排序后的索引列表。
+
+因此，可以将 `range(len(mat))` 单独拎出来使用，只要在 `sorted` 函数中正确地使用它即可。
+
+
 
