@@ -1,4 +1,4 @@
-# 🌥 912 - Sort an Array
+# ⛅ 912 - Sort an Array
 
 Given an array of integers `nums`, sort the array in ascending order and return it.
 
