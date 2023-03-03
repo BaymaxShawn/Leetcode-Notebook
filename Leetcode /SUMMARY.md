@@ -9,4 +9,5 @@
 * [🤷 1346 - Check If N and Its Double Exist](1346-check-if-n-and-its-double-exist.md)
 * [🧑💻 350 - Intersection of Two Arrays II](350-intersection-of-two-arrays-ii.md)
 * [😀 153 - Find Minimum in Rotated Sorted Array](153-find-minimum-in-rotated-sorted-array.md)
-* [633 - Sum of Square Numbers](633-sum-of-square-numbers.md)
+* [😀 633 - Sum of Square Numbers](633-sum-of-square-numbers.md)
+* [33 - Search in Rotated Sorted Array](33-search-in-rotated-sorted-array.md)
