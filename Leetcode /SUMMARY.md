@@ -10,4 +10,5 @@
 * [🧑💻 350 - Intersection of Two Arrays II](350-intersection-of-two-arrays-ii.md)
 * [😀 153 - Find Minimum in Rotated Sorted Array](153-find-minimum-in-rotated-sorted-array.md)
 * [😀 633 - Sum of Square Numbers](633-sum-of-square-numbers.md)
-* [33 - Search in Rotated Sorted Array](33-search-in-rotated-sorted-array.md)
+* [😀 33 - Search in Rotated Sorted Array](33-search-in-rotated-sorted-array.md)
+* [😅 1855 - Maximum Distance Between a Pair of Values](1855-maximum-distance-between-a-pair-of-values.md)
