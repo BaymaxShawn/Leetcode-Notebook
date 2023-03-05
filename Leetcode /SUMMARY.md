@@ -12,3 +12,6 @@
 * [😀 633 - Sum of Square Numbers](633-sum-of-square-numbers.md)
 * [😀 33 - Search in Rotated Sorted Array](33-search-in-rotated-sorted-array.md)
 * [😅 1855 - Maximum Distance Between a Pair of Values](1855-maximum-distance-between-a-pair-of-values.md)
+* [217 - Contains Duplicate](217-contains-duplicate.md)
+* [53 - Maximum Subarray](53-maximum-subarray.md)
+* [93 - Restore IP Addresses](93-restore-ip-addresses.md)
