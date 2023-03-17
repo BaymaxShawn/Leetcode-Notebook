@@ -1,4 +1,4 @@
-# 53 - Maximum Subarray
+# ⛈ 53 - Maximum Subarray
 
 Given an integer array `nums`, find the&#x20;
 
