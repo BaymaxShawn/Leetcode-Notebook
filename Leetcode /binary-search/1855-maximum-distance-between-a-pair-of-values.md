@@ -1,3 +1,7 @@
+---
+description: medium
+---
+
 # 😅 1855 - Maximum Distance Between a Pair of Values
 
 You are given two **non-increasing 0-indexed** integer arrays `nums1`​​​​​​ and `nums2`​​​​​​.
