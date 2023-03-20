@@ -37,6 +37,7 @@
 * [😛 189 - Rotate Array](su-b/189-rotate-array.md)
 * [😆 217 - Contains Duplicate](217-contains-duplicate.md)
 * [😅 283 - Move Zeroes](su-b/283-move-zeroes.md)
+* [605 - Can Place Flowers](su-b/605-can-place-flowers.md)
 * [⛅ 912 - Sort an Array](912-sort-an-array.md)
 * [🏀 1480. Running Sum of 1d Array](su-b/1480.-running-sum-of-1d-array.md)
 
@@ -56,13 +57,16 @@
 
 ## Two Point
 
+* [🥲 344 - Reverse String](two-point/344-reverse-string.md)
 * [🧑💻 350 - Intersection of Two Arrays II](350-intersection-of-two-arrays-ii.md)
 * [😅 392 - Is Subsequence](two-point/392-is-subsequence.md)
 * [🤏 443 - String Compression](443-string-compression.md)
+* [😅 557 - Reverse Words in a String III](two-point/557-reverse-words-in-a-string-iii.md)
 * [🐬 704 - Binary Search](two-point/704-binary-search.md)
 * [😀 977 - Squares of a Sorted Array](two-point/977-squares-of-a-sorted-array.md)
 
 ## Dynamic programming
 
 * [😉 121 - Best Time to Buy and Sell Stock](dynamic-programming/121-best-time-to-buy-and-sell-stock.md)
+* [😅 338 - Counting Bits](dynamic-programming/338-counting-bits.md)
 * [😂 343 - Integer Break](dynamic-programming/343-integer-break.md)
