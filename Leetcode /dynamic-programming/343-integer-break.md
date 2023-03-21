@@ -73,3 +73,42 @@ class Solution:
 
 #### dp
 
+[https://www.youtube.com/watch?v=in6QbUPMJ3I](https://www.youtube.com/watch?v=in6QbUPMJ3I)
+
+[https://www.bilibili.com/video/BV1Mg411q7YJ/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=62329035e2ecd83b592d19bbbf232810](https://www.bilibili.com/video/BV1Mg411q7YJ/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=62329035e2ecd83b592d19bbbf232810)
+
+```python
+
+class Solution:
+    def integerBreak(self, n: int) -> int:
+        dp = [0]*(n+1)
+        if n == 0:
+            dp[n] = 0
+        elif n== 1:
+            dp[n] = 0
+        elif n== 2:
+            dp[n] = 1
+        else:
+            for i in range(3,n+1):
+                for j in range(1,i):
+                    dp[i] = max(j*(i-j),j*dp[i-j],dp[i])
+
+        return dp[n]
+```
+
+```python
+class Solution:
+    def integerBreak(self, n: int) -> int:
+
+        # dp[0] = 0
+        # dp[1] = 0
+        # dp[2] = 1
+
+        dp = [0]*(n+1)
+        for i in range(n+1):
+            for j in range(i):
+                dp[i] = max(dp[i],max(j,dp[j])*max((i-j),dp[i-j]))
+        
+        return dp[n]
+```
+

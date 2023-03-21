@@ -31,24 +31,29 @@
 
 ## Array <a href="#su-b" id="su-b"></a>
 
+* [4 - Median of Two Sorted Arrays](su-b/4-median-of-two-sorted-arrays.md)
 * [😀 33 - Search in Rotated Sorted Array](33-search-in-rotated-sorted-array.md)
 * [⛈ 53 - Maximum Subarray](53-maximum-subarray.md)
 * [🌬 88 - Merge Sorted Array](su-b/88-merge-sorted-array.md)
 * [😛 189 - Rotate Array](su-b/189-rotate-array.md)
 * [😆 217 - Contains Duplicate](217-contains-duplicate.md)
 * [😅 283 - Move Zeroes](su-b/283-move-zeroes.md)
-* [605 - Can Place Flowers](su-b/605-can-place-flowers.md)
+* [😿 605 - Can Place Flowers](su-b/605-can-place-flowers.md)
 * [⛅ 912 - Sort an Array](912-sort-an-array.md)
 * [🏀 1480. Running Sum of 1d Array](su-b/1480.-running-sum-of-1d-array.md)
+* [🚅 2348 - Number of Zero-Filled Subarrays](su-b/2348-number-of-zero-filled-subarrays.md)
+* [😎 2469 - Convert the Temperature](su-b/2469-convert-the-temperature.md)
 
 ## Hash Table
 
 * [☀ 1 - Two Sum](1-two-sum.md)
 * [🤪 205 - Isomorphic Strings](hash-table/205-isomorphic-strings.md)
+* [😁 409 - Longest Palindrome](hash-table/409-longest-palindrome.md)
 * [🤷 1346 - Check If N and Its Double Exist](1346-check-if-n-and-its-double-exist.md)
 
 ## Linked list
 
+* [🤜 19 - Remove Nth Node From End of List](linked-list/19-remove-nth-node-from-end-of-list.md)
 * [🍞 21 - Merge Two Sorted Lists](linked-list/21-merge-two-sorted-lists.md)
 * [😇 142 - Linked List Cycle II](linked-list/142-linked-list-cycle-ii.md)
 * [🖥 206 - Reverse Linked List](linked-list/206-reverse-linked-list.md)
@@ -67,6 +72,13 @@
 
 ## Dynamic programming
 
+* [🙃 5 - Longest Palindromic Substring](dynamic-programming/5-longest-palindromic-substring.md)
+* [😏 70 - Climbing Stairs](dynamic-programming/70-climbing-stairs.md)
 * [😉 121 - Best Time to Buy and Sell Stock](dynamic-programming/121-best-time-to-buy-and-sell-stock.md)
 * [😅 338 - Counting Bits](dynamic-programming/338-counting-bits.md)
 * [😂 343 - Integer Break](dynamic-programming/343-integer-break.md)
+* [🦲 509 - Fibonacci Number](dynamic-programming/509-fibonacci-number.md)
+* [🥳 746 - Min Cost Climbing Stairs](dynamic-programming/746-min-cost-climbing-stairs.md)
+* [😅 1025 - Divisor Game](dynamic-programming/1025-divisor-game.md)
+* [😏 1137 - N-th Tribonacci Number](dynamic-programming/1137-n-th-tribonacci-number.md)
+* [🤳 1646 - Get Maximum in Generated Array](dynamic-programming/1646-get-maximum-in-generated-array.md)
