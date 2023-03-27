@@ -36,3 +36,37 @@ Solution
 
 [https://www.bilibili.com/video/BV19L411D7fs/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=62329035e2ecd83b592d19bbbf232810](https://www.bilibili.com/video/BV19L411D7fs/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=62329035e2ecd83b592d19bbbf232810)
 
+```python
+class Solution:
+    def countPairs(self, n: int, edges: List[List[int]]) -> int:
+
+        graph =  defaultdict(list)
+        for a,b in edges:
+            graph[a].append(b)
+            graph[b].append(a)
+        
+        visited = set()
+        res = 0 
+        rem = n
+
+        for i in range(n):
+            if i in visited :
+                continue
+            visited.add(i)
+            s = [i]
+            tem = 1
+            while s:
+                cur = s.pop()
+                for x in graph[cur]:
+                    if x not in visited:
+                        s.append(x)
+                        visited.add(x)
+                        tem += 1
+            rem -= tem 
+            res += rem * tem
+            #以上就是为了分类，看哪个和哪个没关系，大概分出三个团
+        
+        return res
+```
+
+\
