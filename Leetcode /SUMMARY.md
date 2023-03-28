@@ -79,6 +79,7 @@
 * [😂 343 - Integer Break](dynamic-programming/343-integer-break.md)
 * [🦲 509 - Fibonacci Number](dynamic-programming/509-fibonacci-number.md)
 * [🥳 746 - Min Cost Climbing Stairs](dynamic-programming/746-min-cost-climbing-stairs.md)
+* [😉 983 - Minimum Cost For Tickets](dynamic-programming/983-minimum-cost-for-tickets.md)
 * [😅 1025 - Divisor Game](dynamic-programming/1025-divisor-game.md)
 * [😏 1137 - N-th Tribonacci Number](dynamic-programming/1137-n-th-tribonacci-number.md)
 * [🤳 1646 - Get Maximum in Generated Array](dynamic-programming/1646-get-maximum-in-generated-array.md)
