@@ -46,3 +46,43 @@ A cycle is a path that starts and ends at the **same** node.
 
 [https://www.youtube.com/watch?v=FKqovrqFncs](https://www.youtube.com/watch?v=FKqovrqFncs)
 
+```python
+class Solution:
+    def longestCycle(self, edges: List[int]) -> int:
+        #只可能有一个cycle 或者没有cycle
+
+        def dfs(node,lenSoFar,callstack):
+            nonlocal best,visited
+            if node == -1:
+                return
+
+            if node in visited:
+                # there's a cycle
+                i = -1
+                for j in range(len(callstack)):
+                    if callstack[j] == node:
+                        #found a cycle
+                        i = j # j beginning of cycle
+                        break
+                if i == -1: #no cycle
+                    return 
+
+                cyclelen = lenSoFar - i
+                best = max(best,cyclelen)
+                return
+
+
+            visited.add(node)
+            callstack.append(node)
+            dfs(edges[node],lenSoFar+1,callstack)
+
+
+        best = -1
+        visited = set()
+
+        for node in range(len(edges)):
+            if node not in visited:
+                dfs(node,0,[])
+        
+        return best
+```
