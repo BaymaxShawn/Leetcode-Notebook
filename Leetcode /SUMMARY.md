@@ -29,6 +29,10 @@
 
 * [❄ 51 - N Queens](51-n-queens.md)
 
+## Greedy
+
+* [1402 - Reducing Dishes](greedy/1402-reducing-dishes.md)
+
 ## Array <a href="#su-b" id="su-b"></a>
 
 * [😃 4 - Median of Two Sorted Arrays](su-b/4-median-of-two-sorted-arrays.md)
