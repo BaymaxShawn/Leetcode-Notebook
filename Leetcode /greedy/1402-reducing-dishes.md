@@ -2,7 +2,7 @@
 description: Hard
 ---
 
-# 1402 - Reducing Dishes
+# 😜 1402 - Reducing Dishes
 
 A chef has collected data on the `satisfaction` level of his `n` dishes. Chef can cook any dish in 1 unit of time.
 
@@ -35,3 +35,18 @@ Dishes can be prepared in **any** order and the chef can discard some dishes to 
 </strong><strong>Output: 0
 </strong><strong>Explanation: People do not like the dishes. No dish is prepared.
 </strong></code></pre>
+
+## Solution
+
+```python
+class Solution:
+    def maxSatisfaction(self, satisfaction: List[int]) -> int:
+        A = satisfaction
+        res = total = 0
+        A.sort()
+        while A and A[-1] + total > 0:
+            total += A.pop()
+            res += total
+            print(total,res)
+        return res
+```

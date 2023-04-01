@@ -31,7 +31,7 @@
 
 ## Greedy
 
-* [1402 - Reducing Dishes](greedy/1402-reducing-dishes.md)
+* [😜 1402 - Reducing Dishes](greedy/1402-reducing-dishes.md)
 
 ## Array <a href="#su-b" id="su-b"></a>
 
