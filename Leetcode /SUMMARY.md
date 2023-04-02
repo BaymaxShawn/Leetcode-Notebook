@@ -98,3 +98,7 @@
 * [🙃 2316 - Count Unreachable Pairs of Nodes in an Undirected Graph](depth-first-search/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.md)
 * [🥺 2360 - Longest Cycle in a Graph](depth-first-search/2360-longest-cycle-in-a-graph.md)
 * [🥲 2492 - Minimum Score of a Path Between Two Cities](depth-first-search/2492-minimum-score-of-a-path-between-two-cities.md)
+
+## Graph
+
+* [😅 997 - Find the Town Judge](graph/997-find-the-town-judge.md)
