@@ -41,6 +41,7 @@
 * [🌬 88 - Merge Sorted Array](su-b/88-merge-sorted-array.md)
 * [😛 189 - Rotate Array](su-b/189-rotate-array.md)
 * [😆 217 - Contains Duplicate](217-contains-duplicate.md)
+* [😁 245-Shortest Word Distance III](su-b/245-shortest-word-distance-iii.md)
 * [😅 283 - Move Zeroes](su-b/283-move-zeroes.md)
 * [😿 605 - Can Place Flowers](su-b/605-can-place-flowers.md)
 * [⛅ 912 - Sort an Array](912-sort-an-array.md)
