@@ -13,6 +13,7 @@
 * [☺ 167 - Two Sum II - Input Array Is Sorted](binary-search/167-two-sum-ii-input-array-is-sorted.md)
 * [😀 278 - First Bad Version](binary-search/278-first-bad-version.md)
 * [😀 633 - Sum of Square Numbers](633-sum-of-square-numbers.md)
+* [😁 881 - Boats to Save People](binary-search/881-boats-to-save-people.md)
 * [😁 1337 - The K Weakest Rows in a Matrix](1337-the-k-weakest-rows-in-a-matrix.md)
 * [😅 1855 - Maximum Distance Between a Pair of Values](1855-maximum-distance-between-a-pair-of-values.md)
 
