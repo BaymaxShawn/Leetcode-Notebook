@@ -68,6 +68,7 @@
 
 ## Two Point
 
+* [😁 283 - Move Zeroes](two-point/283-move-zeroes.md)
 * [🥲 344 - Reverse String](two-point/344-reverse-string.md)
 * [🧑💻 350 - Intersection of Two Arrays II](350-intersection-of-two-arrays-ii.md)
 * [😅 392 - Is Subsequence](two-point/392-is-subsequence.md)
