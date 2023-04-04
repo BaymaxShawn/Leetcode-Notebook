@@ -85,6 +85,7 @@
 * [😜 64 - Minimum Path Sum](dynamic-programming/64-minimum-path-sum.md)
 * [😏 70 - Climbing Stairs](dynamic-programming/70-climbing-stairs.md)
 * [😉 121 - Best Time to Buy and Sell Stock](dynamic-programming/121-best-time-to-buy-and-sell-stock.md)
+* [😖 300 - Longest Increasing Subsequence](dynamic-programming/300-longest-increasing-subsequence.md)
 * [😅 338 - Counting Bits](dynamic-programming/338-counting-bits.md)
 * [😂 343 - Integer Break](dynamic-programming/343-integer-break.md)
 * [🦲 509 - Fibonacci Number](dynamic-programming/509-fibonacci-number.md)
