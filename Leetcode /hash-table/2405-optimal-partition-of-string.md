@@ -47,3 +47,20 @@ class Solution:
         return res 
 
 ```
+
+```python
+class Solution:
+    def partitionString(self, s: str) -> int:
+
+        temp = [-1]* 26
+        count = 1
+        start = 0
+
+        for i in range(len(s)):
+            if temp[ord(s[i])- ord('a')] >= start:
+                count += 1
+                start = i
+            temp[ord(s[i])- ord('a')] = i
+        
+        return count
+```
