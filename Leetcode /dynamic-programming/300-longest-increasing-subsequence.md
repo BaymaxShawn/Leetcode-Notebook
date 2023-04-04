@@ -31,6 +31,8 @@ _**subsequence**_.
 
 ## Solution
 
+#### DP
+
 ```python
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
@@ -44,6 +46,27 @@ class Solution:
                 
         return max(dp)
 
+```
+
+#### binary&#x20;
+
+```python
+class Solution:
+    def lengthOfLIS(self, nums: List[int]) -> int:
+
+        res = [nums[0]]
+
+        for i in range(1,len(nums)):
+            if nums[i]>res[-1]:
+                res.append(nums[i])
+
+            else:
+                n = 0
+                while res[n]<nums[i]:
+                    n +=1
+                res[n] = nums[i]
+            
+        return len(res)
 ```
 
 \
