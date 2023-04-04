@@ -56,6 +56,7 @@
 * [🤪 205 - Isomorphic Strings](hash-table/205-isomorphic-strings.md)
 * [😁 409 - Longest Palindrome](hash-table/409-longest-palindrome.md)
 * [🤷 1346 - Check If N and Its Double Exist](1346-check-if-n-and-its-double-exist.md)
+* [😝 2405 - Optimal Partition of String](hash-table/2405-optimal-partition-of-string.md)
 
 ## Linked list
 
