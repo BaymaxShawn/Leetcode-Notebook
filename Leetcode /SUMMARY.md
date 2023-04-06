@@ -5,6 +5,7 @@
 ## Sliding Window
 
 * [🍑 3 - Longest Substring Without Repeating Characters](sliding-window/3-longest-substring-without-repeating-characters.md)
+* [🗣 567 - Permutation in String](sliding-window/567-permutation-in-string.md)
 
 ## Binary Search
 
