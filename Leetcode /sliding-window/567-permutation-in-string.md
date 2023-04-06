@@ -29,3 +29,33 @@ In other words, return `true` if one of `s1`'s permutations is the substring of 
 
 * `1 <= s1.length, s2.length <= 104`
 * `s1` and `s2` consist of lowercase English letters.
+
+## Solution
+
+```python
+class Solution:
+    def checkInclusion(self, s1: str, s2: str) -> bool:
+
+        if len(s1)>len(s2):
+            return False
+        
+        n = len(s1)
+        window = Counter(s1)
+        match = 0
+
+        for i in range(len(s2)):
+            if s2[i] in window:
+                window[s2[i]] -= 1
+                if window[s2[i]] == 0:
+                    match += 1
+            
+            if i>=n and s2[i-n] in window:
+                if window[s2[i-n]] == 0:
+                    match -= 1
+                window[s2[i-n]] += 1
+                
+            if match == len(window):
+                return True
+            
+        return False
+```
