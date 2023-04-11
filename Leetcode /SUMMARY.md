@@ -99,7 +99,10 @@
 
 ## Depth First Search
 
+* [😖 133 - Clone Graph](depth-first-search/133-clone-graph.md)
 * [😣 733 - Flood Fill](depth-first-search/733-flood-fill.md)
+* [😂 1020 - Number of Enclaves](depth-first-search/1020-number-of-enclaves.md)
+* [🤩 1254 - Number of Closed Islands](depth-first-search/1254-number-of-closed-islands.md)
 * [😂 1319 - Number of Operations to Make Network Connected](depth-first-search/1319-number-of-operations-to-make-network-connected.md)
 * [🤣 1466 - Reorder Routes to Make All Paths Lead to the City Zero](depth-first-search/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.md)
 * [🙃 2316 - Count Unreachable Pairs of Nodes in an Undirected Graph](depth-first-search/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.md)
@@ -109,3 +112,7 @@
 ## Graph
 
 * [😅 997 - Find the Town Judge](graph/997-find-the-town-judge.md)
+
+## Stack
+
+* [😅 2390 - Removing Stars From a String](stack/2390-removing-stars-from-a-string.md)
