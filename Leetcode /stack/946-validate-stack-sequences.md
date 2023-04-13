@@ -2,9 +2,7 @@
 description: medium 2023/04/13
 ---
 
-# 946 - Validate Stack Sequences
-
-946\. Validate Stack SequencesMedium5.3K101![company](https://assets.leetcode.com/lcus-resource/mockinterview/amazon.png)Amazon![company](https://assets.leetcode.com/static\_assets/company/tik-tok.png)TikTok![company](https://assets.leetcode.com/static\_assets/company/logo\_google\_icon\_143197.png)Google
+# 🙁 946 - Validate Stack Sequences
 
 Given two integer arrays `pushed` and `popped` each with distinct values, return `true` _if this could have been the result of a sequence of push and pop operations on an initially empty stack, or_ `false` _otherwise._
 
