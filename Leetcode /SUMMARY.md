@@ -115,4 +115,5 @@
 
 ## Stack
 
+* [946 - Validate Stack Sequences](stack/946-validate-stack-sequences.md)
 * [😅 2390 - Removing Stars From a String](stack/2390-removing-stars-from-a-string.md)
