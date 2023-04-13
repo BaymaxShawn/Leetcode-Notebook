@@ -2,7 +2,7 @@
 description: easy
 ---
 
-# 760 - Find Anagram Mappings
+# 😂 760 - Find Anagram Mappings
 
 You are given two integer arrays `nums1` and `nums2` where `nums2` is **an anagram** of `nums1`. Both arrays may contain duplicates.
 
@@ -48,6 +48,19 @@ class Solution:
             for j in range(len(nums2)):
                 if nums1[i] == nums2[j]:
                     res[i] = j
+
+        return res
+                
+```
+
+```python
+class Solution:
+    def anagramMappings(self, nums1: List[int], nums2: List[int]) -> List[int]:
+
+        res = []
+        
+        for i in range(len(nums1)):
+            res.append(nums2.index(nums1[i]))
 
         return res
                 
