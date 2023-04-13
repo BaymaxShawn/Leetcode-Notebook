@@ -39,6 +39,7 @@
 
 * [😃 4 - Median of Two Sorted Arrays](su-b/4-median-of-two-sorted-arrays.md)
 * [😀 33 - Search in Rotated Sorted Array](33-search-in-rotated-sorted-array.md)
+* [760 - Find Anagram Mappings](su-b/760-find-anagram-mappings.md)
 * [⛈ 53 - Maximum Subarray](53-maximum-subarray.md)
 * [🌬 88 - Merge Sorted Array](su-b/88-merge-sorted-array.md)
 * [😛 189 - Rotate Array](su-b/189-rotate-array.md)
