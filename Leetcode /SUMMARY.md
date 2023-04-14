@@ -85,6 +85,7 @@
 ## Dynamic programming
 
 * [🙃 5 - Longest Palindromic Substring](dynamic-programming/5-longest-palindromic-substring.md)
+* [53 - Maximum Subarray](dynamic-programming/53-maximum-subarray.md)
 * [😜 64 - Minimum Path Sum](dynamic-programming/64-minimum-path-sum.md)
 * [😏 70 - Climbing Stairs](dynamic-programming/70-climbing-stairs.md)
 * [😉 121 - Best Time to Buy and Sell Stock](dynamic-programming/121-best-time-to-buy-and-sell-stock.md)
