@@ -39,3 +39,27 @@ class Solution:
         return -1
                 
 ```
+
+#### Two pointer
+
+```python
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
+
+        l1,l2,t1,t2 = len(haystack),len(needle),0,0
+
+        while t1<l1:
+            if t2 == l2:
+                return t1 - t2
+            if haystack[t1] == needle[t2]:
+                t2 += 1
+            else:
+                t1 = t1-t2
+                t2 = 0
+            t1 += 1
+        
+        if t2 == l2 :
+            return l1-l2
+        
+        return -1
+```

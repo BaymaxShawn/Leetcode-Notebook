@@ -64,4 +64,3 @@ class Solution:
             nums1[:n] = nums2[:n]
 ```
 
-``

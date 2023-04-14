@@ -7,7 +7,7 @@ You are given an integer `n`. A **0-indexed** integer array `nums` of length `n 
 * `nums[2 * i] = nums[i]` when `2 <= 2 * i <= n`
 * `nums[2 * i + 1] = nums[i] + nums[i + 1]` when `2 <= 2 * i + 1 <= n`
 
-Return **** _the **maximum** integer in the array_ `nums`​​​.
+Return _the **maximum** integer in the array_ `nums`​​​.
 
 &#x20;
 
