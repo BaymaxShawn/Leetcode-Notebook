@@ -38,6 +38,7 @@
 ## Array <a href="#su-b" id="su-b"></a>
 
 * [😃 4 - Median of Two Sorted Arrays](su-b/4-median-of-two-sorted-arrays.md)
+* [😁 28 - Find the Index of the First Occurrence in a String](su-b/28-find-the-index-of-the-first-occurrence-in-a-string.md)
 * [😀 33 - Search in Rotated Sorted Array](33-search-in-rotated-sorted-array.md)
 * [😂 760 - Find Anagram Mappings](su-b/760-find-anagram-mappings.md)
 * [⛈ 53 - Maximum Subarray](53-maximum-subarray.md)
