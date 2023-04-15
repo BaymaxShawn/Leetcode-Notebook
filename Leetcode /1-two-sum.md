@@ -60,3 +60,19 @@ class Solution:
 虽然代码中没有显式地使用哈希表，但实际上在这个解法中，使用了 Python 中的内置列表数据类型，其在实现上就是使用哈希表。
 
 具体来说，在代码中 `if target-nums[i] in nums` 这行中，Python 会通过哈希表的查找操作来判断 `target-nums[i]` 是否在 `nums` 中。Python 中的列表实际上是通过哈希表来实现的，因此这个解法使用了哈希表的实现机制。
+
+#### HashTable
+
+```python
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+
+        hashtable = {}
+
+        for i in range(len(nums)):
+            if nums[i] not in hashtable:
+                hashtable[nums[i]] = i
+            if target - nums[i] in hashtable and hashtable[target - nums[i]] != i:
+                return [i,hashtable[target - nums[i]]]
+            
+```
