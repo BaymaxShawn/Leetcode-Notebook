@@ -99,6 +99,7 @@
 * [😉 983 - Minimum Cost For Tickets](dynamic-programming/983-minimum-cost-for-tickets.md)
 * [😅 1025 - Divisor Game](dynamic-programming/1025-divisor-game.md)
 * [😏 1137 - N-th Tribonacci Number](dynamic-programming/1137-n-th-tribonacci-number.md)
+* [😤 1639 - Number of Ways to Form a Target String Given a Dictionary](dynamic-programming/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.md)
 * [🤳 1646 - Get Maximum in Generated Array](dynamic-programming/1646-get-maximum-in-generated-array.md)
 * [🤔 2218 - Maximum Value of K Coins From Piles](dynamic-programming/2218-maximum-value-of-k-coins-from-piles.md)
 
