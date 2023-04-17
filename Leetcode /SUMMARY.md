@@ -124,3 +124,7 @@
 * [🥲 71 -  Simplify Path](stack/71-simplify-path.md)
 * [🙁 946 - Validate Stack Sequences](stack/946-validate-stack-sequences.md)
 * [😅 2390 - Removing Stars From a String](stack/2390-removing-stars-from-a-string.md)
+
+## Queue
+
+* [😁 566 - Reshape the Matrix](queue/566-reshape-the-matrix.md)
