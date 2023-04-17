@@ -43,6 +43,7 @@
 * [⛈ 53 - Maximum Subarray](53-maximum-subarray.md)
 * [🌬 88 - Merge Sorted Array](su-b/88-merge-sorted-array.md)
 * [😛 189 - Rotate Array](su-b/189-rotate-array.md)
+* [🥳 118 - Pascal's Triangle](su-b/118-pascals-triangle.md)
 * [😆 217 - Contains Duplicate](217-contains-duplicate.md)
 * [😁 245-Shortest Word Distance III](su-b/245-shortest-word-distance-iii.md)
 * [😅 283 - Move Zeroes](su-b/283-move-zeroes.md)
