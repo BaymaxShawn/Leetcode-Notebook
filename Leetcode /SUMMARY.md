@@ -82,6 +82,7 @@
 * [😅 557 - Reverse Words in a String III](two-point/557-reverse-words-in-a-string-iii.md)
 * [🐬 704 - Binary Search](two-point/704-binary-search.md)
 * [😀 977 - Squares of a Sorted Array](two-point/977-squares-of-a-sorted-array.md)
+* [😌 1768 - Merge Strings Alternately](two-point/1768-merge-strings-alternately.md)
 * [😝 2300 - Successful Pairs of Spells and Potions](two-point/2300-successful-pairs-of-spells-and-potions.md)
 
 ## Dynamic programming
