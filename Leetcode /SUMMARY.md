@@ -111,6 +111,7 @@
 * [😣 733 - Flood Fill](depth-first-search/733-flood-fill.md)
 * [😂 1020 - Number of Enclaves](depth-first-search/1020-number-of-enclaves.md)
 * [🤩 1254 - Number of Closed Islands](depth-first-search/1254-number-of-closed-islands.md)
+* [🤣 1372 - Longest ZigZag Path in a Binary Tree](depth-first-search/1372-longest-zigzag-path-in-a-binary-tree.md)
 * [😂 1319 - Number of Operations to Make Network Connected](depth-first-search/1319-number-of-operations-to-make-network-connected.md)
 * [🤣 1466 - Reorder Routes to Make All Paths Lead to the City Zero](depth-first-search/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.md)
 * [🙃 2316 - Count Unreachable Pairs of Nodes in an Undirected Graph](depth-first-search/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.md)
