@@ -10,6 +10,7 @@
 ## Binary Search
 
 * [☝ 35 - Search Insert Position](binary-search/35-search-insert-position.md)
+* [😂 74 - Search a 2D Matrix](binary-search/74-search-a-2d-matrix.md)
 * [😀 153 - Find Minimum in Rotated Sorted Array](153-find-minimum-in-rotated-sorted-array.md)
 * [☺ 167 - Two Sum II - Input Array Is Sorted](binary-search/167-two-sum-ii-input-array-is-sorted.md)
 * [😀 278 - First Bad Version](binary-search/278-first-bad-version.md)
