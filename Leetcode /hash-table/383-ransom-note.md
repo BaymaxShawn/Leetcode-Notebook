@@ -2,7 +2,7 @@
 description: easy
 ---
 
-# 383 - Ransom Note
+# 🥳 383 - Ransom Note
 
 Given two strings `ransomNote` and `magazine`, return `true` _if_ `ransomNote` _can be constructed by using the letters from_ `magazine` _and_ `false` _otherwise_.
 
