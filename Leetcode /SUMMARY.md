@@ -61,6 +61,7 @@
 
 * [☀ 1 - Two Sum](1-two-sum.md)
 * [🤪 205 - Isomorphic Strings](hash-table/205-isomorphic-strings.md)
+* [😁 242 - Valid Anagram](hash-table/242-valid-anagram.md)
 * [🥳 383 - Ransom Note](hash-table/383-ransom-note.md)
 * [😁 409 - Longest Palindrome](hash-table/409-longest-palindrome.md)
 * [🤷 1346 - Check If N and Its Double Exist](1346-check-if-n-and-its-double-exist.md)
