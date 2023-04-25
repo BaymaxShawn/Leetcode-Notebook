@@ -65,6 +65,7 @@
 * [🥳 383 - Ransom Note](hash-table/383-ransom-note.md)
 * [😁 409 - Longest Palindrome](hash-table/409-longest-palindrome.md)
 * [🤷 1346 - Check If N and Its Double Exist](1346-check-if-n-and-its-double-exist.md)
+* [😅 2336 - Smallest Number in Infinite Set](hash-table/2336-smallest-number-in-infinite-set.md)
 * [😝 2405 - Optimal Partition of String](hash-table/2405-optimal-partition-of-string.md)
 
 ## Linked list
