@@ -140,6 +140,7 @@
 
 ## Queue
 
+* [👍 232 - Implement Queue using Stacks](queue/232-implement-queue-using-stacks.md)
 * [😁 566 - Reshape the Matrix](queue/566-reshape-the-matrix.md)
 * [😂 662 - Maximum Width of Binary Tree](queue/662-maximum-width-of-binary-tree.md)
 
