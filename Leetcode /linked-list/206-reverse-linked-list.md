@@ -35,6 +35,8 @@ Given the `head` of a singly linked list, reverse the list, and return _the reve
 
 ## Solution
 
+#### recursive
+
 ```python
 # Definition for singly-linked list.
 # class ListNode:
@@ -53,5 +55,23 @@ class Solution:
         head.next = None
 
         return res
+        
+```
+
+#### Iterative
+
+```python
+class Solution:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+
+        l = None
+        r = head
+        while r:
+            next_temp = r.next
+            r.next = l
+            l = r
+            r = next_temp
+            
+        return l
         
 ```

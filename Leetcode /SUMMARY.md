@@ -74,6 +74,7 @@
 * [🍞 21 - Merge Two Sorted Lists](linked-list/21-merge-two-sorted-lists.md)
 * [😍 141 - Linked List Cycle](linked-list/141-linked-list-cycle.md)
 * [😇 142 - Linked List Cycle II](linked-list/142-linked-list-cycle-ii.md)
+* [😌 203 - Remove Linked List Elements](linked-list/203-remove-linked-list-elements.md)
 * [🖥 206 - Reverse Linked List](linked-list/206-reverse-linked-list.md)
 * [🥲 876 - Middle of the Linked ListPage 1](linked-list/876-middle-of-the-linked-listpage-1.md)
 * [🧐 1472 - Design Browser History](linked-list/1472-design-browser-history.md)
