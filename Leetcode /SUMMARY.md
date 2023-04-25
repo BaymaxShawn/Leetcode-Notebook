@@ -72,6 +72,7 @@
 
 * [🤜 19 - Remove Nth Node From End of List](linked-list/19-remove-nth-node-from-end-of-list.md)
 * [🍞 21 - Merge Two Sorted Lists](linked-list/21-merge-two-sorted-lists.md)
+* [😍 141 - Linked List Cycle](linked-list/141-linked-list-cycle.md)
 * [😇 142 - Linked List Cycle II](linked-list/142-linked-list-cycle-ii.md)
 * [🖥 206 - Reverse Linked List](linked-list/206-reverse-linked-list.md)
 * [🥲 876 - Middle of the Linked ListPage 1](linked-list/876-middle-of-the-linked-listpage-1.md)
