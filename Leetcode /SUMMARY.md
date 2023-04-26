@@ -46,6 +46,7 @@
 * [😛 189 - Rotate Array](su-b/189-rotate-array.md)
 * [😆 217 - Contains Duplicate](217-contains-duplicate.md)
 * [😁 245-Shortest Word Distance III](su-b/245-shortest-word-distance-iii.md)
+* [😚 258 - Add Digits](su-b/258-add-digits.md)
 * [😅 283 - Move Zeroes](su-b/283-move-zeroes.md)
 * [😉 387 - First Unique Character in a String](su-b/387-first-unique-character-in-a-string.md)
 * [😿 605 - Can Place Flowers](su-b/605-can-place-flowers.md)
