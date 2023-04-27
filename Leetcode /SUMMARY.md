@@ -159,5 +159,7 @@
 * [😌 144 - Binary Tree Preorder Traversal](tree/144-binary-tree-preorder-traversal.md)
 * [😙 145 - Binary Tree Postorder Traversal](tree/145-binary-tree-postorder-traversal.md)
 * [🤪 226 - Invert Binary Tree](tree/226-invert-binary-tree.md)
+* [😝 235 - Lowest Common Ancestor of a Binary Search Tree](tree/235-lowest-common-ancestor-of-a-binary-search-tree.md)
+* [🥳 653 - Two Sum IV - Input is a BST](tree/653-two-sum-iv-input-is-a-bst.md)
 * [😚 700 - Search in a Binary Search Tree](tree/700-search-in-a-binary-search-tree.md)
 * [🤪 701 - Insert into a Binary Search Tree](tree/701-insert-into-a-binary-search-tree.md)
