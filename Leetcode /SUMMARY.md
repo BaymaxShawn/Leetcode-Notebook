@@ -163,3 +163,7 @@
 * [🥳 653 - Two Sum IV - Input is a BST](tree/653-two-sum-iv-input-is-a-bst.md)
 * [😚 700 - Search in a Binary Search Tree](tree/700-search-in-a-binary-search-tree.md)
 * [🤪 701 - Insert into a Binary Search Tree](tree/701-insert-into-a-binary-search-tree.md)
+
+## Math
+
+* [319 - Bulb Switcher](math/319-bulb-switcher.md)
