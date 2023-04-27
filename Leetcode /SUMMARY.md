@@ -151,6 +151,7 @@
 
 * [Definition](tree/definition.md)
 * [🥳 94 - Binary Tree Inorder Traversal](tree/94-binary-tree-inorder-traversal.md)
+* [😏 98 - Validate Binary Search Tree](tree/98-validate-binary-search-tree.md)
 * [😛 101 - Symmetric Tree](tree/101-symmetric-tree.md)
 * [🤨 102 - Binary Tree Level Order Traversal](tree/102-binary-tree-level-order-traversal.md)
 * [🥲 104 - Maximum Depth of Binary Tree](tree/104-maximum-depth-of-binary-tree.md)
