@@ -2,7 +2,7 @@
 description: medium 2023/04/27 daily question
 ---
 
-# 319 - Bulb Switcher
+# 🤏 319 - Bulb Switcher
 
 There are `n` bulbs that are initially off. You first turn on all the bulbs, then you turn off every second bulb.
 

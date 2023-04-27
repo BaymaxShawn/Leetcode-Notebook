@@ -2,6 +2,10 @@
 
 * [干啥呢？](README.md)
 
+## Math
+
+* [🤏 319 - Bulb Switcher](math/319-bulb-switcher.md)
+
 ## Sliding Window
 
 * [🍑 3 - Longest Substring Without Repeating Characters](sliding-window/3-longest-substring-without-repeating-characters.md)
@@ -50,6 +54,7 @@
 * [😅 283 - Move Zeroes](su-b/283-move-zeroes.md)
 * [😉 387 - First Unique Character in a String](su-b/387-first-unique-character-in-a-string.md)
 * [😿 605 - Can Place Flowers](su-b/605-can-place-flowers.md)
+* [😋 724 - Find Pivot Index](su-b/724-find-pivot-index.md)
 * [😂 760 - Find Anagram Mappings](su-b/760-find-anagram-mappings.md)
 * [⛅ 912 - Sort an Array](912-sort-an-array.md)
 * [😚 1046 - Last Stone Weight](su-b/1046-last-stone-weight.md)
@@ -163,7 +168,3 @@
 * [🥳 653 - Two Sum IV - Input is a BST](tree/653-two-sum-iv-input-is-a-bst.md)
 * [😚 700 - Search in a Binary Search Tree](tree/700-search-in-a-binary-search-tree.md)
 * [🤪 701 - Insert into a Binary Search Tree](tree/701-insert-into-a-binary-search-tree.md)
-
-## Math
-
-* [319 - Bulb Switcher](math/319-bulb-switcher.md)
