@@ -158,3 +158,4 @@
 * [😌 144 - Binary Tree Preorder Traversal](tree/144-binary-tree-preorder-traversal.md)
 * [😙 145 - Binary Tree Postorder Traversal](tree/145-binary-tree-postorder-traversal.md)
 * [🤪 226 - Invert Binary Tree](tree/226-invert-binary-tree.md)
+* [😚 700 - Search in a Binary Search Tree](tree/700-search-in-a-binary-search-tree.md)
