@@ -124,6 +124,7 @@
 
 * [😖 133 - Clone Graph](depth-first-search/133-clone-graph.md)
 * [😣 733 - Flood Fill](depth-first-search/733-flood-fill.md)
+* [🧐 839 - Similar String Groups](depth-first-search/839-similar-string-groups.md)
 * [😂 1020 - Number of Enclaves](depth-first-search/1020-number-of-enclaves.md)
 * [🤩 1254 - Number of Closed Islands](depth-first-search/1254-number-of-closed-islands.md)
 * [🤣 1372 - Longest ZigZag Path in a Binary Tree](depth-first-search/1372-longest-zigzag-path-in-a-binary-tree.md)
