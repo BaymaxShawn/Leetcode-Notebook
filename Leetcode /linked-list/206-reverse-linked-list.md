@@ -75,3 +75,20 @@ class Solution:
         return l
         
 ```
+
+```python
+class Solution:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        
+        dummy = None
+
+        while head:
+            cur = head.next
+            head.next = dummy
+            dummy = head 
+            head = cur
+        
+        return dummy
+```
+
+dummy 顶替了head，但head不存在了，所以return dummy
