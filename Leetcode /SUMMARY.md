@@ -4,6 +4,7 @@
 
 ## Math
 
+* [😁 202 - Happy Number](math/202-happy-number.md)
 * [🤏 319 - Bulb Switcher](math/319-bulb-switcher.md)
 
 ## Sliding Window
