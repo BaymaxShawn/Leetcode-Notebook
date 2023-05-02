@@ -51,3 +51,16 @@ class Solution:
         return max_profit
 
 ```
+
+```python
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+
+        min_value = inf
+        max_value = -inf
+        for i in prices:
+            min_value = min(min_value,i)
+            max_value = max(max_value,i- min_value)
+        
+        return max_value
+```

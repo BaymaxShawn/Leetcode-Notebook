@@ -60,7 +60,7 @@
 * [😚 1046 - Last Stone Weight](su-b/1046-last-stone-weight.md)
 * [🏀 1480. Running Sum of 1d Array](su-b/1480.-running-sum-of-1d-array.md)
 * [😜 1491 - Average Salary Excluding the Minimum and Maximum Salary](su-b/1491-average-salary-excluding-the-minimum-and-maximum-salary.md)
-* [1822 - Sign of the Product of an Array](su-b/1822-sign-of-the-product-of-an-array.md)
+* [🤩 1822 - Sign of the Product of an Array](su-b/1822-sign-of-the-product-of-an-array.md)
 * [🚅 2348 - Number of Zero-Filled Subarrays](su-b/2348-number-of-zero-filled-subarrays.md)
 * [😿 2439 - Minimize Maximum of Array](su-b/2439-minimize-maximum-of-array.md)
 * [😎 2469 - Convert the Temperature](su-b/2469-convert-the-temperature.md)
