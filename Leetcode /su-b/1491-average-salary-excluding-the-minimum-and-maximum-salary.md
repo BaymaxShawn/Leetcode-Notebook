@@ -2,7 +2,7 @@
 description: easy daily question
 ---
 
-# 1491 - Average Salary Excluding the Minimum and Maximum Salary
+# 😜 1491 - Average Salary Excluding the Minimum and Maximum Salary
 
 You are given an array of **unique** integers `salary` where `salary[i]` is the salary of the `ith` employee.
 
