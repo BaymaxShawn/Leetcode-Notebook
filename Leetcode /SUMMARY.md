@@ -93,6 +93,7 @@
 ## Two Point
 
 * [😁 28 - Find the Index of the First Occurrence in a String](two-point/28-find-the-index-of-the-first-occurrence-in-a-string.md)
+* [😛 125 - Valid Palindrome](two-point/125-valid-palindrome.md)
 * [😁 283 - Move Zeroes](two-point/283-move-zeroes.md)
 * [🥲 344 - Reverse String](two-point/344-reverse-string.md)
 * [🧑💻 350 - Intersection of Two Arrays II](350-intersection-of-two-arrays-ii.md)
