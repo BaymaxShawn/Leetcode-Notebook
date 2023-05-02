@@ -126,6 +126,7 @@
 ## Depth First Search
 
 * [😖 133 - Clone Graph](depth-first-search/133-clone-graph.md)
+* [🤓 589 - N-ary Tree Preorder Traversal](depth-first-search/589-n-ary-tree-preorder-traversal.md)
 * [😣 733 - Flood Fill](depth-first-search/733-flood-fill.md)
 * [🧐 839 - Similar String Groups](depth-first-search/839-similar-string-groups.md)
 * [😂 1020 - Number of Enclaves](depth-first-search/1020-number-of-enclaves.md)
