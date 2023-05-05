@@ -158,6 +158,7 @@
 * [🥳 102 - Binary Tree Level Order Traversal](queue/102-binary-tree-level-order-traversal.md)
 * [👍 232 - Implement Queue using Stacks](queue/232-implement-queue-using-stacks.md)
 * [😁 566 - Reshape the Matrix](queue/566-reshape-the-matrix.md)
+* [😎 649 - Dota2 Senate](queue/649-dota2-senate.md)
 * [😂 662 - Maximum Width of Binary Tree](queue/662-maximum-width-of-binary-tree.md)
 
 ## Breath First Search
@@ -179,6 +180,6 @@
 * [😚 700 - Search in a Binary Search Tree](tree/700-search-in-a-binary-search-tree.md)
 * [🤪 701 - Insert into a Binary Search Tree](tree/701-insert-into-a-binary-search-tree.md)
 
-## Group 1
+## Union Find
 
-* [Union Find](group-1/union-find.md)
+* [Union Find](union-find/union-find.md)
