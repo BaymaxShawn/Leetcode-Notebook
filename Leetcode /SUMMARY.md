@@ -23,7 +23,7 @@
 * [😀 633 - Sum of Square Numbers](633-sum-of-square-numbers.md)
 * [😁 881 - Boats to Save People](binary-search/881-boats-to-save-people.md)
 * [😁 1337 - The K Weakest Rows in a Matrix](1337-the-k-weakest-rows-in-a-matrix.md)
-* [1498 - Number of Subsequences That Satisfy the Given Sum Condition](binary-search/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.md)
+* [😅 1498 - Number of Subsequences That Satisfy the Given Sum Condition](binary-search/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.md)
 * [😅 1855 - Maximum Distance Between a Pair of Values](1855-maximum-distance-between-a-pair-of-values.md)
 
 ## Tire Tree
