@@ -150,8 +150,8 @@
 
 ## Graph
 
-* [😅 997 - Find the Town Judge](graph/997-find-the-town-judge/README.md)
-  * [1557 - Minimum Number of Vertices to Reach All Nodes](graph/997-find-the-town-judge/1557-minimum-number-of-vertices-to-reach-all-nodes.md)
+* [😅 997 - Find the Town Judge](graph/997-find-the-town-judge.md)
+* [🤪 1557 - Minimum Number of Vertices to Reach All Nodes](graph/1557-minimum-number-of-vertices-to-reach-all-nodes.md)
 
 ## Stack
 
