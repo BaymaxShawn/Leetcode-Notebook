@@ -194,3 +194,7 @@
 ## Matrix
 
 * [😆 54 - Spiral Matrix](matrix/54-spiral-matrix.md)
+
+## Heap
+
+* [2542 - Maximum Subsequence Score](heap/2542-maximum-subsequence-score.md)
