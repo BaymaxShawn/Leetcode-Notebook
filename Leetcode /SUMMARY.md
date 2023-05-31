@@ -80,6 +80,7 @@
 * [😞 392 - Is Subsequence](hash-table/392-is-subsequence.md)
 * [😁 409 - Longest Palindrome](hash-table/409-longest-palindrome.md)
 * [🤷 1346 - Check If N and Its Double Exist](1346-check-if-n-and-its-double-exist.md)
+* [😝 1396 - Design Underground System](hash-table/1396-design-underground-system.md)
 * [😉 2215 - Find the Difference of Two Arrays](hash-table/2215-find-the-difference-of-two-arrays.md)
 * [😅 2336 - Smallest Number in Infinite Set](hash-table/2336-smallest-number-in-infinite-set.md)
 * [😝 2405 - Optimal Partition of String](hash-table/2405-optimal-partition-of-string.md)
