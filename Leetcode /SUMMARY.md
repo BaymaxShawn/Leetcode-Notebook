@@ -6,6 +6,7 @@
 
 * [😁 202 - Happy Number](math/202-happy-number.md)
 * [🤏 319 - Bulb Switcher](math/319-bulb-switcher.md)
+* [😌 1232 - Check If It Is a Straight Line](math/1232-check-if-it-is-a-straight-line.md)
 
 ## Sliding Window
 
