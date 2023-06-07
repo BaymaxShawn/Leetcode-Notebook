@@ -1,4 +1,4 @@
-# 2542 - Maximum Subsequence Score
+# ☹ 2542 - Maximum Subsequence Score
 
 You are given two **0-indexed** integer arrays `nums1` and `nums2` of equal length `n` and a positive integer `k`. You must choose a **subsequence** of indices from `nums1` of length `k`.
 

@@ -200,4 +200,8 @@
 
 ## Heap
 
-* [2542 - Maximum Subsequence Score](heap/2542-maximum-subsequence-score.md)
+* [☹ 2542 - Maximum Subsequence Score](heap/2542-maximum-subsequence-score.md)
+
+## Bit Manipulation
+
+* [🤓 1318 - Minimum Flips to Make a OR b Equal to c](bit-manipulation/1318-minimum-flips-to-make-a-or-b-equal-to-c.md)
