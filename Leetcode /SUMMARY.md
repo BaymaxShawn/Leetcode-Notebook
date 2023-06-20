@@ -52,6 +52,7 @@
 * [⛈ 53 - Maximum Subarray](53-maximum-subarray.md)
 * [🌬 88 - Merge Sorted Array](su-b/88-merge-sorted-array.md)
 * [🥳 118 - Pascal's Triangle](su-b/118-pascals-triangle.md)
+* [163 - Missing Ranges](su-b/163-missing-ranges.md)
 * [😛 189 - Rotate Array](su-b/189-rotate-array.md)
 * [😆 217 - Contains Duplicate](217-contains-duplicate.md)
 * [😁 245-Shortest Word Distance III](su-b/245-shortest-word-distance-iii.md)
