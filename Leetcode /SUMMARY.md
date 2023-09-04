@@ -118,6 +118,7 @@
 
 ## Dynamic programming
 
+* [Definition](dynamic-programming/definition.md)
 * [🙃 5 - Longest Palindromic Substring](dynamic-programming/5-longest-palindromic-substring.md)
 * [😎 53 - Maximum Subarray](dynamic-programming/53-maximum-subarray.md)
 * [😁 62 - Unique Paths](dynamic-programming/62-unique-paths.md)
