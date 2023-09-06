@@ -99,6 +99,7 @@
 * [😌 203 - Remove Linked List Elements](linked-list/203-remove-linked-list-elements.md)
 * [🖥 206 - Reverse Linked List](linked-list/206-reverse-linked-list.md)
 * [🥲 876 - Middle of the Linked ListPage 1](linked-list/876-middle-of-the-linked-listpage-1.md)
+* [😁 1290 - Convert Binary Number in a Linked List to Integer](linked-list/1290-convert-binary-number-in-a-linked-list-to-integer.md)
 * [🧐 1472 - Design Browser History](linked-list/1472-design-browser-history.md)
 * [😉 2130 - Maximum Twin Sum of a Linked List](linked-list/2130-maximum-twin-sum-of-a-linked-list.md)
 
