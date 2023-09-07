@@ -93,6 +93,7 @@
 * [🍞 21 - Merge Two Sorted Lists](linked-list/21-merge-two-sorted-lists.md)
 * [😆 24 - Swap Nodes in Pairs](linked-list/24-swap-nodes-in-pairs.md)
 * [😂 83 - Remove Duplicates from Sorted List](linked-list/83-remove-duplicates-from-sorted-list.md)
+* [🧠 92 - Reverse Linked List II](linked-list/92-reverse-linked-list-ii.md)
 * [😂 138 - Copy List with Random Pointer](linked-list/138-copy-list-with-random-pointer.md)
 * [😍 141 - Linked List Cycle](linked-list/141-linked-list-cycle.md)
 * [😇 142 - Linked List Cycle II](linked-list/142-linked-list-cycle-ii.md)
