@@ -97,6 +97,7 @@
 * [😂 138 - Copy List with Random Pointer](linked-list/138-copy-list-with-random-pointer.md)
 * [😍 141 - Linked List Cycle](linked-list/141-linked-list-cycle.md)
 * [😇 142 - Linked List Cycle II](linked-list/142-linked-list-cycle-ii.md)
+* [☺ 160 - Intersection of Two Linked Lists](linked-list/160-intersection-of-two-linked-lists.md)
 * [😌 203 - Remove Linked List Elements](linked-list/203-remove-linked-list-elements.md)
 * [🖥 206 - Reverse Linked List](linked-list/206-reverse-linked-list.md)
 * [😂 725 - Split Linked List in Parts](linked-list/725-split-linked-list-in-parts.md)
