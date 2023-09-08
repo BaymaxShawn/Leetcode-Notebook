@@ -92,6 +92,7 @@
 * [🤜 19 - Remove Nth Node From End of List](linked-list/19-remove-nth-node-from-end-of-list.md)
 * [🍞 21 - Merge Two Sorted Lists](linked-list/21-merge-two-sorted-lists.md)
 * [😆 24 - Swap Nodes in Pairs](linked-list/24-swap-nodes-in-pairs.md)
+* [😜 61 - Rotate List](linked-list/61-rotate-list.md)
 * [😂 83 - Remove Duplicates from Sorted List](linked-list/83-remove-duplicates-from-sorted-list.md)
 * [🧠 92 - Reverse Linked List II](linked-list/92-reverse-linked-list-ii.md)
 * [😂 138 - Copy List with Random Pointer](linked-list/138-copy-list-with-random-pointer.md)
