@@ -152,6 +152,7 @@
 ## Depth First Search
 
 * [😖 133 - Clone Graph](depth-first-search/133-clone-graph.md)
+* [😞 332 - Reconstruct Itinerary](depth-first-search/332-reconstruct-itinerary.md)
 * [🤓 589 - N-ary Tree Preorder Traversal](depth-first-search/589-n-ary-tree-preorder-traversal.md)
 * [😣 733 - Flood Fill](depth-first-search/733-flood-fill.md)
 * [🧐 839 - Similar String Groups](depth-first-search/839-similar-string-groups.md)
