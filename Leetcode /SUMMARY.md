@@ -215,6 +215,7 @@
 
 ## Heap
 
+* [🧐 1631 -  Path With Minimum Effort](heap/1631-path-with-minimum-effort.md)
 * [☹ 2542 - Maximum Subsequence Score](heap/2542-maximum-subsequence-score.md)
 
 ## Bit Manipulation
