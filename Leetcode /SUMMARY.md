@@ -227,3 +227,4 @@
 
 * [😆 459 - Repeated Substring Pattern](string/459-repeated-substring-pattern.md)
 * [😉 168 - Excel Sheet Column Title](string/168-excel-sheet-column-title.md)
+* [😆 2038 - Remove Colored Pieces if Both Neighbors are the Same Color](string/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color.md)
