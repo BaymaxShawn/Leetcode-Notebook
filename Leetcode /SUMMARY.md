@@ -62,6 +62,7 @@
 * [😅 283 - Move Zeroes](su-b/283-move-zeroes.md)
 * [😉 387 - First Unique Character in a String](su-b/387-first-unique-character-in-a-string.md)
 * [😿 605 - Can Place Flowers](su-b/605-can-place-flowers.md)
+* [😅 706. Design HashMap](su-b/706.-design-hashmap.md)
 * [😋 724 - Find Pivot Index](su-b/724-find-pivot-index.md)
 * [😂 760 - Find Anagram Mappings](su-b/760-find-anagram-mappings.md)
 * [⛅ 912 - Sort an Array](912-sort-an-array.md)
